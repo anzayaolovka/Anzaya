@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Arial, sans-serif;   
     background: #f3f3f3;
     margin: 0;
 }
 
 .header {
-    background: #417aa8;
+    background: linear-gradient(to right, #417aa8, #5fa3d3);
     color: white;
     text-align: center;
     padding: 20px;
@@ -48,6 +48,14 @@ body {
     width: 70%;
     background: white;
     padding: 20px;
+}
+
+.content, .sidebar {
+    border-radius: 10px;
+}
+
+.content {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
 .sidebar {
