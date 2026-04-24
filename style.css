@@ -72,6 +72,12 @@ body {
     margin-top: 20px;
 }
 
+.gambar {
+    width: 70%;
+    display: block;
+    margin-left: 0;
+}
+
 button {
     background: #417aa8;
     color: white;
