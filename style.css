@@ -14,7 +14,7 @@ body {
 }
 
 .menu {
-    background: #364522;
+    background: #023d2b;
 }
 
 .menu ul {
@@ -36,7 +36,7 @@ body {
 }
 
 .menu ul li a:hover {
-    background: #355b35;
+    background: #023d2b;
 }
 
 .container {
@@ -62,14 +62,14 @@ body {
 
 .sidebar {
     width: 30%;
-    background: #364522;
+    background: #023d2b;
     padding: 20px;
     color: white;
 }
 
 .footer {
     text-align: center;
-    background: #364522;
+    background: #023d2b;
     color: white;
     padding: 10px;
     margin-top: 20px;
@@ -90,7 +90,7 @@ body {
 }
 
 button {
-    background: #364522;
+    background: #023d2b;
     color: white;
     border: none;
     padding: 8px;
@@ -98,5 +98,5 @@ button {
 }
 
 button:hover {
-    background: #355b35;
+    background: #023d2b;
 }
