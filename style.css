@@ -75,15 +75,13 @@ body {
 .gambar {
     width: 60%;
     display: block;
-    margin: 10px 0;
-    border-radius: 10px;
+    margin-left: 0;
 }
 
 .gambarku {
     width: 60%;
     display: block;
-    margin: 10px 0;
-    border-radius: 10px;
+    margin-left: 0;
 }
 
 button {
