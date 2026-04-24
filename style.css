@@ -5,10 +5,12 @@ body {
 }
 
 .header {
-    background: linear-gradient(to right, #364522, #355b35);
+    background: url('header.jpg');
+    background-size: cover;
+    background-position: center;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 60px 20px;
 }
 
 .menu {
